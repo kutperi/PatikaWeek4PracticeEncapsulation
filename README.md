@@ -13,26 +13,6 @@ Bu proje, kullanıcıdan araç bilgilerini alarak oluşturulan bir `Car` nesnesi
 
 - .NET Core SDK
 
-## Kurulum
-
-Projenizi klonladıktan sonra aşağıdaki adımları izleyerek projeyi çalıştırabilirsiniz:
-
-1. Projeyi klonlayın:
-    ```sh
-    git clone https://github.com/kutperi/PatikaWeek4PracticeEncapsulation.git
-    cd PatikaWeek4PracticeEncapsulation
-    ```
-
-2. Projeyi derleyin:
-    ```sh
-    dotnet build
-    ```
-
-3. Projeyi çalıştırın:
-    ```sh
-    dotnet run
-    ```
-
 ## Kullanım
 
 Program çalıştıktan sonra, sırasıyla aşağıdaki bilgileri girmeniz istenecektir:
